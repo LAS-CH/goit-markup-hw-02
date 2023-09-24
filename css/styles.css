@@ -1,0 +1,87 @@
+.brend-text{
+
+}
+
+.address-link{
+    color:#434455;
+    font-family: 'Roboto';
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    text-decoration: underline;
+}
+
+.address-link:hover{
+    color: #404BBF;
+        font-family: 'Roboto';
+            font-size: 12px;
+            line-height: 16px;
+            letter-spacing: 4%;
+            text-decoration: underline;
+}
+
+.navig-link{
+    color:#2E2F42;
+}
+.navig-link:hover{
+    color:#404BBF
+}
+
+h1{
+font-family: 'Roboto';
+font-weight: bold;
+font-size: 56px;
+letter-spacing: 2%;
+line-height: 50px;
+}
+
+h2 {
+font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+h3 {
+    font-family: 'Roboto';
+        font-weight: medium;
+        font-size: 20px;
+        letter-spacing: 2%;
+}
+
+body {
+    font-family: 'Roboto' sans-serif;
+    font-weight: fixed;
+    font-size: 16px;
+    letter-spacing: 2%;
+}
+
+button{
+    background-color:#4D5AE5 ;
+    font-family: Roboto;
+    font-weight: medium;
+    line-height: 24px;
+    letter-spacing: 4%;
+    cursor: pointer;
+}
+button:hover{
+    background-color:#404BBF;
+        font-family: Roboto;
+            font-weight: medium;
+            line-height: 24px;
+            letter-spacing: 4%;
+            cursor: pointer;
+}
+
+
+.Team-images{
+    width: 264px;
+    height: 260px;
+}
+.Portfolio img{
+    width: 360px;
+    height: 300px;
+}
+p{
+
+}
