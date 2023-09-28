@@ -36,7 +36,7 @@
 }
 
 .address-li {
-    font-size: normal;
+    font-style: normal;
 }
 
 .address-link {
@@ -60,7 +60,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 56px;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
     line-height: 1.07;
     text-align: center;
 }
@@ -74,7 +74,7 @@
     color: #2e2f42;
 }
 
-h3 {
+.h3-h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
         font-size: 20px;
@@ -100,7 +100,7 @@ body {
     cursor: pointer;
     color: #FFFFFF;
 }
-.button-button{
+.button-button:focus{
    color: #404BBF; 
 }
 .button-button:hover {
@@ -121,4 +121,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.section-3{
+    background-color:#F4F4FD ;
 }
