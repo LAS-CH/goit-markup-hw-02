@@ -1,34 +1,35 @@
-.brend-text{
-font-family: 'Raleway',sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform:uppercase;
-color: #4D5AE5;
+.brend-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
 }
 
-.span-st{
+.span-st {
     color: #2E2F42;
 }
 
-.navig-link{
-    color:#2E2F42;
+.navig-link {
+    color: #2E2F42;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.navig-link:hover{
-    color:#404BBF;
+
+.navig-link:hover {
+    color: #404BBF;
 }
 
-.address-li{
+.address-li {
     font-size: normal;
 }
 
 .address-link {
     color: #434455;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 12px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -38,70 +39,59 @@ color: #4D5AE5;
 .address-link:hover,
 .address-link:focus {
     color: #404BBF;
-    font-family: 'Roboto';
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 4%;
     text-decoration: underline;
 }
 
-h1{
-font-family: 'Roboto';
-font-weight: bold;
-font-size: 56px;
-letter-spacing: 2%;
-line-height: 50px;
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2px;
+    line-height: 50px;
 }
 
 h2 {
-font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 36px;
-    letter-spacing: 2%;
+    letter-spacing: 2px;
 }
 
 h3 {
-    font-family: 'Roboto';
-        font-weight: medium;
-        font-size: 20px;
-        letter-spacing: 2%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2px;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
-    color:#434455;
+    color: #434455;
     background-color: #FFFFFF;
-    font-weight: fixed;
     font-size: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 2px;
 }
 
-button{
-    background-color:#4D5AE5 ;
-    font-family: Roboto;
+button {
+    background-color: #4D5AE5;
+    font-family: 'Roboto', sans-serif;
     font-weight: medium;
     line-height: 24px;
-    letter-spacing: 4%;
+    letter-spacing: 4px;
     cursor: pointer;
 }
-button:hover{
-    background-color:#404BBF;
-        font-family: Roboto;
-            font-weight: medium;
-            line-height: 24px;
-            letter-spacing: 4%;
-            cursor: pointer;
+
+button:hover {
+    background-color: #404BBF;
+    cursor: pointer;
 }
 
-
-.Team-images{
+.Team-images {
     width: 264px;
     height: 260px;
 }
-.Portfolio img{
+
+.Portfolio img {
     width: 360px;
     height: 300px;
-}
-p{
-
 }
