@@ -1,4 +1,4 @@
-.brend-text {
+.nav-nav{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -7,7 +7,6 @@
         text-transform: uppercase;
         color: #4d5ae5;
 }
-
 .span-st {
     color: #2E2F42;
 }
@@ -15,9 +14,7 @@
 .navig-link {
     color: #2E2F42;
     font-weight: 500;
-    font-size: 16px;
     letter-spacing: 0.02em;
-    line-height: 1.5;
 }
 
 .navig-link:hover {
