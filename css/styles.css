@@ -15,7 +15,9 @@
 .navig-link {
     color: #2E2F42;
     font-weight: 500;
+    font-size: 16px;
     letter-spacing: 0.02em;
+    line-height: 1.5;
 }
 
 .navig-link:hover {
