@@ -42,7 +42,7 @@
 .address-link {
     color: #434455;
     font-family: 'Roboto', sans-serif;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: underline;
@@ -55,19 +55,23 @@
     font-size: 16px;
 }
 
-h1 {
+.h1-h1{
+    color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 56px;
-    letter-spacing: 2px;
-    line-height: 50px;
+    letter-spacing: 0.2em;
+    line-height: 1.07;
+    text-align: center;
 }
 
-h2 {
+.h2-h2 {
     font-family: 'Roboto', sans-serif;
-    font-weight: bold;
+    font-weight: 500;
     font-size: 36px;
-    letter-spacing: 2px;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    color: #2e2f42;
 }
 
 h3 {
@@ -85,16 +89,19 @@ body {
     letter-spacing: 2px;
 }
 
-button {
+.button-button {
     background-color: #4D5AE5;
     font-family: 'Roboto', sans-serif;
-    font-weight: medium;
+    font-weight: 500;
     line-height: 24px;
-    letter-spacing: 4px;
+    letter-spacing: 0.04em;
     cursor: pointer;
+    color: #FFFFFF;
 }
-
-button:hover {
+.button-button{
+   color: #404BBF; 
+}
+.button-button:hover {
     background-color: #404BBF;
     cursor: pointer;
 }
@@ -102,4 +109,8 @@ button:hover {
 .Team-images,
 .Portfolio img {
     /* розміри і стилі для .Team-images і .Portfolio img */
+}
+.section-1{
+    background-color: #2E2F42;
+
 }
