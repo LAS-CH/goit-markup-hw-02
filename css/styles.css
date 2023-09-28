@@ -35,9 +35,7 @@
     color: #404bbf;
 }
 
-.address-li {
-    font-style: normal;
-}
+
 
 .address-link {
     color: #434455;
@@ -54,7 +52,9 @@
     text-decoration: underline;
     font-size: 16px;
 }
-
+.address-li {
+    font-style: normal;
+}
 .h1-h1{
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
@@ -116,12 +116,13 @@ body {
     background-color: #2E2F42;
 
 }
-.section-2 li p {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 .section-3{
     background-color:#F4F4FD ;
+}
+.p-p{
+        font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;
 }
