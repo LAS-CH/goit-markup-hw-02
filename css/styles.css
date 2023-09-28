@@ -2,7 +2,6 @@
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -15,7 +14,6 @@
 .navig-link {
     color: #2E2F42;
     font-weight: 500;
-    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -86,12 +84,7 @@ button:hover {
     cursor: pointer;
 }
 
-.Team-images {
-    width: 264px;
-    height: 260px;
-}
-
+.Team-images,
 .Portfolio img {
-    width: 360px;
-    height: 300px;
+    /* розміри і стилі для .Team-images і .Portfolio img */
 }
