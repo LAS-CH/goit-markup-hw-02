@@ -73,9 +73,11 @@
     line-height: 1.2;
     color: #2e2f42;
 }
-.h2-h3{
+.h2-h3 {
     font-size: 36px;
     line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
 }
@@ -122,14 +124,14 @@ body {
 
 }
 
-.section-3{
-    background-color:#F4F4FD ;
+.section-3 {
+    background-color: #F4F4FD;
 }
-.p-p{
-        font-size: 16px;
-            line-height: 1.5;
-            letter-spacing: 0.02em;
-            color: #434455;
+.p-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 .footer-footer{
     background-color: #2e2f42;
