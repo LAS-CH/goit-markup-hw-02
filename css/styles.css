@@ -73,7 +73,12 @@
     line-height: 1.2;
     color: #2e2f42;
 }
-
+.h2-h3{
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
 .h3-h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -101,7 +106,7 @@ body {
     color: #FFFFFF;
 }
 .button-button:focus{
-   color: #404BBF; 
+   background-color: #404BBF; 
 }
 .button-button:hover {
     background-color: #404BBF;
@@ -136,4 +141,7 @@ body {
 }
 .span-footer{
     color: #f4f4fd;
+}
+.section-3 li{
+    background-color: #FFFFFF;
 }
