@@ -7,15 +7,6 @@
         text-transform: uppercase;
         color: #4d5ae5;
 }
-.nav-nav{
-    font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
-}
 .span-st {
     color: #2E2F42;
 }
@@ -55,7 +46,7 @@
 .adress-li{
     font-style: normal;
 }
-.h1-h1{
+.hero-title{
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -65,7 +56,7 @@
     text-align: center;
 }
 
-.h2-h2 {
+.hero-pidtitle {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 36px;
@@ -81,7 +72,7 @@
     text-transform: capitalize;
     color: #2E2F42;
 }
-.h3-h3 {
+.last-title{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
         font-size: 20px;
@@ -119,7 +110,7 @@ body {
 .Portfolio img {
     /* розміри і стилі для .Team-images і .Portfolio img */
 }
-.section-1{
+.section-title{
     background-color: #2E2F42;
 
 }
