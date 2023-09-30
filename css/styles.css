@@ -64,7 +64,7 @@
     line-height: 1.2;
     color: #2e2f42;
 }
-.h2-h3 {
+.hero-pidtitle-st{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -106,10 +106,6 @@ body {
     cursor: pointer;
 }
 
-.Team-images,
-.Portfolio img {
-    /* розміри і стилі для .Team-images і .Portfolio img */
-}
 .section-title{
     background-color: #2E2F42;
 
@@ -135,6 +131,6 @@ body {
 .span-footer{
     color: #f4f4fd;
 }
-.section-3 li{
+.section-team li{
     background-color: #FFFFFF;
 }
