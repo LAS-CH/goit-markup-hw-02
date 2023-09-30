@@ -131,6 +131,9 @@ body {
 .span-footer{
     color: #f4f4fd;
 }
-.section-team li{
+.section-team{
+    background-color: #F4F4FD;
+}
+.section-team-li{
     background-color: #FFFFFF;
 }
